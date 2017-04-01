@@ -127,4 +127,4 @@ Modificações:
   Several plug-ins define Provided Capabilities metadata	You can now rely on OSGi's Require-Capability meta data in your 
   Eclipse-based application for org.eclipse.equinox.event and org.eclipse.equinox.cm as they now provide the corresponding 
   osgi.service capability. Additionally, p2 capabilities are specified to be able to configure non-code dependencies that can be
-  interpreted by the p2 resolver.
+  interpreted by the p2 resolver. 
